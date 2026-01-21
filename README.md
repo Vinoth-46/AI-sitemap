@@ -58,7 +58,7 @@ AI-sitemap/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-sitemap.git
+git clone https://github.com/Vinoth-46/ai-sitemap.git
 
 # Navigate to project directory
 cd ai-sitemap

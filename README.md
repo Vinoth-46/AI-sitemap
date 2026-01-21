@@ -1,12 +1,112 @@
-# React + Vite
+# AI Sitemap Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application that leverages artificial intelligence to generate comprehensive XML sitemaps for websites. Built with React and featuring an intuitive user interface with smooth animations.
 
-Currently, two official plugins are available:
+## Problem Statement
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Creating accurate and complete sitemaps manually is time-consuming and error-prone. This application automates the sitemap generation process using AI-powered crawling and analysis, ensuring no important pages are missed while excluding irrelevant content.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- AI-powered website crawling and analysis
+- Automatic XML sitemap generation
+- Real-time progress tracking with visual feedback
+- Support for multiple URL formats and structures
+- Export sitemaps in standard XML format
+- Responsive design for desktop and mobile
+- Smooth animations and intuitive UI
+
+## Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React 19 | Frontend framework |
+| Vite | Build tool and dev server |
+| Tailwind CSS 4 | Utility-first styling |
+| Framer Motion | Animations and transitions |
+| React Router | Client-side routing |
+| Lucide React | Icon library |
+
+## Folder Structure
+
+```
+AI-sitemap/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   ├── Pages/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
+
+## Setup and Installation
+
+### Prerequisites
+
+- Node.js 18 or higher
+- npm or yarn package manager
+
+### Steps
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/ai-sitemap.git
+
+# Navigate to project directory
+cd ai-sitemap
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+The application will be available at `http://localhost:5173`
+
+### Build for Production
+
+```bash
+npm run build
+npm run preview
+```
+
+## Environment Variables
+
+Create a `.env` file in the root directory:
+
+```env
+VITE_API_KEY=your_api_key_here
+```
+
+## Screenshots
+
+_Screenshots will be added here_
+
+## Future Enhancements
+
+- Scheduled sitemap generation
+- Multiple sitemap format support (HTML, TXT)
+- Sitemap validation and error reporting
+- Integration with Google Search Console
+- Batch processing for multiple websites
+- Priority and frequency customization
+
+## Author
+
+**Vinothan**
+
+- GitHub: [@vinothan](https://github.com/YOUR_USERNAME)
+- LinkedIn: [Vinothan](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+_Built with React and AI_

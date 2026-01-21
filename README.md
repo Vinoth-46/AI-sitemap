@@ -104,8 +104,8 @@ _Screenshots will be added here_
 
 **Vinothan**
 
-- GitHub: [@vinothan](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Vinothan](https://linkedin.com/in/YOUR_LINKEDIN)
+- GitHub: [@vinoth](https://github.com/YOUR_USERNAME)
+- LinkedIn: [Vinoth](https://linkedin.com/in/YOUR_LINKEDIN)
 
 ---
 

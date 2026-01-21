@@ -102,10 +102,10 @@ _Screenshots will be added here_
 
 ## Author
 
-**Vinothan**
+**Vinoth**
 
-- GitHub: [@vinoth](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Vinoth](https://linkedin.com/in/YOUR_LINKEDIN)
+- GitHub: [@Vinoth-46](https://github.com/Vinoth-46)
+- LinkedIn: [Vinoth](https://www.linkedin.com/in/vinoth465/)
 
 ---
 
